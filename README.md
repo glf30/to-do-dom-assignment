@@ -20,3 +20,10 @@
 
 * Allow users to edit existing to-do items
 * Remove Completed Tasks
+
+## Extra Stretch goals
+
+* Move completed tasks to a different section in addition to adding the strikethrough
+* Implement a Category system for your todo Items
+* Todo Items should also have a due Date
+
